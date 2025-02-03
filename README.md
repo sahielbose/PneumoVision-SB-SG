@@ -1,4 +1,9 @@
 # PneumoVision: Pneumonia Classification Using Deep Learning
+
+Developers: Sahiel Bose & Shanay Gaitonde
+
+Research Article: https://medium.com/nextgen-innovations/enhancing-pneumonia-identification-using-vgg16-and-deep-learning-techniques-44ea3bd8e10f
+
 PneumoVision is a deep learning-based system designed to classify chest X-ray images as either Pneumonia or Normal. Using transfer learning and data preprocessing techniques, the model achieves high accuracy with efficient training times. The project is built with TensorFlow/Keras and leverages state-of-the-art models to streamline medical image analysis.
 
 Project Highlights
@@ -64,3 +69,4 @@ Loss decreases consistently due to robust preprocessing and adaptive callbacks.
 Visualization:
 
 Accuracy and loss graphs during training show convergence.
+
