@@ -70,3 +70,5 @@ Visualization:
 
 Accuracy and loss graphs during training show convergence.
 
+Under Dyne Research
+
